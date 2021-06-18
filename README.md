@@ -4,7 +4,7 @@
 
 [Cloud Study Jam](https://events.withgoogle.com/cloud-study-jam-2021-twhk)
 
-## Challenge Lab lilnk
+## Challenge Lab link
 
 [Here](https://www.qwiklabs.com/focuses/12011?parent=catalog)
 
